@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For LiquidCrystal_I2C_Cyrillic
+#######################################
+ 
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ 
+LiquidCrystal_I2C_Cyrillic	KEYWORD1
+ 
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+printCyrillic	KEYWORD2
+writeOtherChar	KEYWORD2
+putChar			KEYWORD2
+makeCharFont	KEYWORD2
+ 
+#######################################
+# Constants (LITERAL1)
+#######################################

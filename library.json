@@ -1,0 +1,15 @@
+{
+  "name": "LiquidCrystal_I2C_Cyrillic",
+  "keywords": "LCD, liquidcrystal, I2C, Cyrillic",
+  "description": "The library which adds support Cyrillic for display HD44780",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/maxavilov/LiquidCrystal_I2C_Cyrillic.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}
